@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: postgres:13
+    container_name: work_tracker_db
+    environment:
+      POSTGRES_USER: tracker_user
+      POSTGRES_PASSWORD: tracker_password
+      POSTGRES_DB: work_tracker_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+volumes:
+  postgres_data:

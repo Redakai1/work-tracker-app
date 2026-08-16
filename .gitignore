@@ -1,0 +1,63 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+npm-debug.log
+npm-error.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# Runtime data
+logs/
+*.log
+
+# OS specific
+Thumbs.db
+.DS_Store
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Database
+*.sql
+*.backup
+*.dump
+
+# Mobile app specific
+.expo/
+.expo-shared/
+dist/
+npm-debug.zip
+
+# Backend specific
+.nodemon.json
+.pm2/
+
+# Testing
+coverage/
+.nyc_output/
+
+# Temporary files
+temp/
+tmp/
+*.tmp
