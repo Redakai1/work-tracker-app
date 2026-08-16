@@ -473,3 +473,5 @@ W razie problemów lub pytań, otwórz issue w repozytorium GitHub.
 **Autor:** [Twoje Imię]  
 **Data Utworzenia:** Sierpień 2026  
 **Wersja:** 1.0.0
+#   w o r k - t r a c k e r - a p p  
+ 
