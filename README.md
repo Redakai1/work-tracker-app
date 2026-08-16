@@ -1,5 +1,7 @@
 # Work Tracker App — Aplikacja do Śledzenia Czasu Pracy
 
+Aplikacja do śledzenia czasu pracy dla administratorów i pracowników.
+
 ## 📋 Spis treści
 1. [Opis Projektu](#opis-projektu)
 2. [Wymagania](#wymagania)
@@ -473,6 +475,8 @@ W razie problemów lub pytań, otwórz issue w repozytorium GitHub.
 **Autor:** [Twoje Imię]  
 **Data Utworzenia:** Sierpień 2026  
 **Wersja:** 1.0.0
-#   w o r k - t r a c k e r - a p p  
- #   w o r k - t r a c k e r - a p p  
+#   w o r k - t r a c k e r - a p p 
+ 
+ #   w o r k - t r a c k e r - a p p 
+ 
  
